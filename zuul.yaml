@@ -4,6 +4,10 @@
     default-branch: main
     templates:
       - helpcenter-base-jobs
+    vars:
+      sphinx_pdf_files:
+        - aom2-api-ref.pdf
+        - aom2-umn.pdf
     check:
       jobs:
         - noop
