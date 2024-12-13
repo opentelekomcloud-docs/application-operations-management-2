@@ -110,7 +110,7 @@ html_copy_source = False
 latex_documents = [
     ('index',
      'aom2-api-ref.tex',
-     u'Application Operations Management 2.0 - API Reference',
+    u'Application Operations Management 2.0 - API Reference',
      u'OpenTelekomCloud', 'manual'),
 ]
 
