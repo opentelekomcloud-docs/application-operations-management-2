@@ -25,7 +25,7 @@ Procedure
 Prerequisites
 -------------
 
--  You have purchased an ECS.. If you already have an ECS, skip this step.
+-  You have purchased an ECS. If you already have an ECS, skip this step.
 -  You have :ref:`subscribed to AOM 2.0 and granted permissions <aom_00_0003__section849614531181>`.
 
 .. _aom_00_0007__section5760211124410:
@@ -141,7 +141,6 @@ Connecting an ECS to AOM
             |                       |                                                                                                                                                             |                       |
             |                       | -  If you have selected **All** for **Enterprise Project** on the global settings page, select one from the drop-down list here.                            |                       |
             |                       | -  If you have already selected an enterprise project on the global settings page, this option will be grayed and cannot be changed.                        |                       |
-            |                       | -  To use the enterprise project function, contact engineers.                                                                                               |                       |
             +-----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------+
             | Instance Type         | Type of the Prometheus instance. Options: **Prometheus for ECS** and **Common Prometheus instance**.                                                        | Prometheus for ECS    |
             +-----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------+
@@ -204,7 +203,6 @@ The following describes how to create an alarm rule when **Configuration Mode** 
       |                       |                                                                                                                                                                            |                       |
       |                       | -  If you have selected **All** for **Enterprise Project** on the global settings page, select one from the drop-down list here.                                           |                       |
       |                       | -  If you have already selected an enterprise project on the global settings page, this option will be grayed and cannot be changed.                                       |                       |
-      |                       | -  To use the enterprise project function, contact engineers.                                                                                                              |                       |
       +-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------+
       | Description           | Description of the rule. Enter up to 1,024 characters. In this example, leave this parameter blank.                                                                        | ``-``                 |
       +-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------+

@@ -29,7 +29,6 @@ Creating a Prometheus Instance
       |                                   |                                                                                                                                                             |
       |                                   | -  If you have selected **All** for **Enterprise Project** on the global settings page, select one from the drop-down list here.                            |
       |                                   | -  If you have already selected an enterprise project on the global settings page, this option will be dimmed and cannot be changed.                        |
-      |                                   | -  To use the enterprise project function, contact engineers.                                                                                               |
       +-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
       | Instance Type                     | Type of the Prometheus instance. Options:                                                                                                                   |
       |                                   |                                                                                                                                                             |

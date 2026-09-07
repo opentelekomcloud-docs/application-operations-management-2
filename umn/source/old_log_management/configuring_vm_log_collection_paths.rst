@@ -10,7 +10,7 @@ AOM can collect and display VM logs. A VM refers to an Elastic Cloud Server (ECS
 Prerequisites
 -------------
 
-You need to install an ICAgent on your VM. About five minutes after the ICAgent is installed, you can view your VM in the VM list on the **Log Analysis** > **Log Paths** page.
+You need to install an ICAgent on your VM. About five minutes after the ICAgent is installed, you can view your VM in the VM list on the **Path Configuration** page.
 
 Constraints
 -----------

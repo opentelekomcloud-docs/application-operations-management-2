@@ -29,7 +29,7 @@ Procedure
 
 #. In the navigation pane, choose **Dashboard** > **Dashboard**. If you want to use new dashboards, choose **Dashboard** in the navigation pane and then click **Try New Version** in the upper right corner of the page.
 
-#. Click a target dashboard and click |image1| in the upper right corner of the dashboard details page.
+#. Click a target dashboard and click the rotation icon in the upper right corner of the dashboard details page.
 
 #. In the dialogue box that is displayed, set the full-screen online duration. For details, see :ref:`Table 1 <mon_01_0041__table2466533131215>`.
 
@@ -67,5 +67,3 @@ Procedure
       +-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 #. Click **OK** to enter the full-screen mode.
-
-.. |image1| image:: /_static/images/en-us_image_0000002370950089.png

@@ -80,7 +80,7 @@ If Prometheus instance metrics do not need to be reported, discard them.
 Adding Prometheus Instance Metrics
 ----------------------------------
 
-After metrics in a Prometheus instance are discarded, you can add they again.
+After metrics in a Prometheus instance are discarded, you can add them again.
 
 #. Log in to the AOM 2.0 console.
 #. In the navigation pane on the left, choose **Prometheus Monitoring** > **Instances**.

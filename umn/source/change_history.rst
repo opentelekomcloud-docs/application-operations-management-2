@@ -10,10 +10,19 @@ Change History
    +-----------------------------------+--------------------------------------------------------------------------------+
    | Release Date                      | Description                                                                    |
    +===================================+================================================================================+
-   | 2025-10-31                        | -  Optimized the following sections:                                           |
+   | 2026-06-22                        | Canceled the whitelist restriction for EPS.                                    |
    |                                   |                                                                                |
-   |                                   |    -  :ref:`Creating an AOM Metric Alarm Rule <mon_01_0008>`                   |
-   |                                   |    -  :ref:`Creating an AOM Event Alarm Rule <mon_01_0010>`                    |
+   |                                   | Optimized the following sections:                                              |
+   |                                   |                                                                                |
+   |                                   | -  :ref:`Connecting to AOM <mon_01_0187>`                                      |
+   |                                   | -  :ref:`Dashboard Monitoring <mon_01_0040>`                                   |
+   |                                   | -  :ref:`Alarm Monitoring <mon_01_0004>`                                       |
+   |                                   | -  :ref:`Prometheus Monitoring <mon_01_0059>`                                  |
+   +-----------------------------------+--------------------------------------------------------------------------------+
+   | 2025-10-31                        | Optimized the following sections:                                              |
+   |                                   |                                                                                |
+   |                                   | -  :ref:`Creating an AOM Metric Alarm Rule <mon_01_0008>`                      |
+   |                                   | -  :ref:`Creating an AOM Event Alarm Rule <mon_01_0010>`                       |
    +-----------------------------------+--------------------------------------------------------------------------------+
    | 2025-09-30                        | -  Added the following sections:                                               |
    |                                   |                                                                                |
