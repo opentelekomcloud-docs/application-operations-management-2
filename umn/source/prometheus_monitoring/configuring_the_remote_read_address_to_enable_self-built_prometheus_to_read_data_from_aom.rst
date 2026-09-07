@@ -5,7 +5,7 @@
 Configuring the Remote Read Address to Enable Self-built Prometheus to Read Data from AOM
 =========================================================================================
 
-Prometheus monitoring provides the remote read API, which can categorize a series of Prometheus protocol data sources into oen single data source for query. This section describes how to read AOM Prometheus instance data through the remote read API when you use self-built Prometheus.
+Prometheus monitoring provides the remote read API, which can categorize a series of Prometheus protocol data sources into a single data source for query. This section describes how to read AOM Prometheus instance data through the remote read API when you use self-built Prometheus.
 
 Constraints
 -----------

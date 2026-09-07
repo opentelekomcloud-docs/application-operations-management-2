@@ -54,12 +54,6 @@ AOM Operations That Can Be Recorded by CTS
    +----------------------+--------------------------------------+----------------------+-------------------------+
    |                      | Deleting a process discovery rule    | apminventory         | deleteAppRules          |
    +----------------------+--------------------------------------+----------------------+-------------------------+
-   |                      | Creating a data subscription rule    | apminventory         | createSubscribeRule     |
-   +----------------------+--------------------------------------+----------------------+-------------------------+
-   |                      | Verifying DMS connectivity           | apminventory         | verifyConnect           |
-   +----------------------+--------------------------------------+----------------------+-------------------------+
-   |                      | Deleting a data subscription rule    | apminventory         | deleteSubscribeRule     |
-   +----------------------+--------------------------------------+----------------------+-------------------------+
    |                      | Adding an alarm template             | audit_v4_alarm_rule  | addAlarmRuleTemplate    |
    +----------------------+--------------------------------------+----------------------+-------------------------+
    |                      | Modifying an alarm template          | audit_v4_alarm_rule  | modifyAlarmRuleTemplate |

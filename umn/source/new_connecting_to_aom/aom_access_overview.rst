@@ -23,7 +23,7 @@ Ingesting Metrics/Logs to AOM
 
    The **Recommended** area displays six popular cards. They will be automatically updated to the six cards you have recently used.
 
-#. Set criteria to quickly query the metrics or logs to be ingested.
+#. Set criteria to quickly query the metrics, or logs to be ingested.
 
    -  Filter: Filter content by data source or type.
    -  Attribute filtering: Click the search box and search for content by keyword, data source, or type. You can also enter a keyword to search.

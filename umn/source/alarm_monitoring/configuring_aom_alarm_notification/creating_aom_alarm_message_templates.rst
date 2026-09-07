@@ -46,7 +46,6 @@ Creating a Message Template
          |                                   |                                                                                                                                                                                  |
          |                                   | -  If you have selected **All** for **Enterprise Project** on the global settings page, select one from the drop-down list here.                                                 |
          |                                   | -  If you have already selected an enterprise project on the global settings page, this option will be dimmed and cannot be changed.                                             |
-         |                                   | -  To use the enterprise project function, contact engineers.                                                                                                                    |
          +-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
    b. Select a language (for example, English).
@@ -68,7 +67,7 @@ Creating a Message Template
          +---------------------+----------------------------------------------------------------------------------------+----------------------------+
          | Variable            | Description                                                                            | Definition                 |
          +=====================+========================================================================================+============================+
-         | Alarm Name          | Name of the alarm rule that is triggered.                                              | ${event_name}              |
+         | Alarm Name          | Name of the alarm rule that is triggered.                                              | ${event_name_alias}        |
          +---------------------+----------------------------------------------------------------------------------------+----------------------------+
          | Alarm ID            | ID of the alarm rule that is triggered.                                                | ${id}                      |
          +---------------------+----------------------------------------------------------------------------------------+----------------------------+

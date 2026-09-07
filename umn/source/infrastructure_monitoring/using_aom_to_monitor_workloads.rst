@@ -33,7 +33,7 @@ Procedure
 
    -  In the upper part of the workload list, filter workloads by cluster or namespace.
 
-      To query namespaces, IAM users with the **AOM ReadOnlyAccess** permission need to log in to the CCE console, choose **Permissions** in the navigation pane, and click **Add Permission** in the upper right corner of the page to add required permissions. For CCE namespaces, users or user groups should be granted with read-only (view) or custom permissions. If custom permissions are granted, the list operation permission must be included and namespace resources must also be specified. .
+      To query namespaces, IAM users with the **AOM ReadOnlyAccess** permission need to log in to the CCE console, choose **Permissions** in the navigation pane, and click **Add Permission** in the upper right corner of the page to add required permissions. For CCE namespaces, users or user groups should be granted with read-only (view) or custom permissions. If custom permissions are granted, the list operation permission must be included and namespace resources must also be specified.
 
    -  Click |image2| in the upper right corner to obtain the latest workload information within the time range specified in :ref:`3.a <mon_01_0025__li108291342820>`.
 
