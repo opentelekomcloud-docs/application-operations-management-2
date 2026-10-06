@@ -7,6 +7,6 @@ Application Operations Management 2.0 (AOM) is a one-stop, three-dimensional O&M
    :class: container-sbv
 
    .. service_card::
-      :service_type: aom
+      :service_type: aom2
       :umn: This document introduces details about AOM-related operations, helping you detect faults in a timely manner and monitor the real-time running statuses of applications.
       :api-ref: This document describes application programming interfaces (APIs) of AOM and provides API parameter description and example values.
